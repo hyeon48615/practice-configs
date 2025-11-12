@@ -1,5 +1,5 @@
 server:
-  port: 3003
+  port: 3001
 
 message:
   test1: '(완료)테스트 메시지1'
